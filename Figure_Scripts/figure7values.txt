@@ -1,0 +1,17 @@
+2008 - 2010
+
+1: votes: 418944, answer: 322505, ratio: 1.299
+3: votes: 714672, answer:, 473397 ratio: 1.510
+5: votes: 483747, answer: 259038, ratio: 1.868
+7: votes: 282353, answer: 124660, ratio: 2.265
+9: votes: 169482, answer: 63739, ratio: 2.659
+11: votes: 105983, answer: 34638, ratio: 3.060
+
+2015-2017
+
+1: votes: 3477191, answer: 2828503, ratio: 1.229
+3: votes: 2701919, answer:, 2057357 ratio: 1.313
+5: votes: 1460230, answer: 967851, ratio: 1.509
+7: votes: 761626, answer: 414533, ratio: 1.837
+9: votes: 406480, answer: 173354, ratio: 2.348
+11: votes: 231324, answer: 73367, ratio: 3.153
